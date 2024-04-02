@@ -60,7 +60,21 @@ dt.predict([[5,6]])
 ## Output:
 ## DATASET
 ![Screenshot 2024-04-02 132510](https://github.com/sravanipopuri2006/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/139778301/daeaeaea-0064-4533-ad2c-95b46f981a78)
-## DATA
+## data.info()
+![Screenshot 2024-04-02 132522](https://github.com/sravanipopuri2006/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/139778301/a0eb11a7-ce65-4dc2-b5c5-c4b23069259b)
+## Checking if null values are present
+![Screenshot 2024-04-02 132533](https://github.com/sravanipopuri2006/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/139778301/fcef250f-d622-4e61-8ca6-452fcf7dd60f)
+## Dataset after encoding
+![Screenshot 2024-04-02 132543](https://github.com/sravanipopuri2006/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/139778301/8b78ab1c-8bc9-4f90-94bc-1f07e0179ca1)
+
+## MSE
+![Screenshot 2024-04-02 132553](https://github.com/sravanipopuri2006/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/139778301/7d9b7e2f-ec25-4cbf-86ad-fb8f8bdfb6f4)
+## r2
+![Screenshot 2024-04-02 132606](https://github.com/sravanipopuri2006/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/139778301/9c1627ae-b5bb-4b55-becf-0589ad46be26)
+
+## dt.predict()
+![Screenshot 2024-04-02 132616](https://github.com/sravanipopuri2006/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/139778301/331b40b1-77c1-444f-ac09-fbd4ed1eded2)
+
 
 
 ## Result:
